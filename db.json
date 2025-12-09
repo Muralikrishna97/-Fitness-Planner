@@ -1,0 +1,92 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "title": "Full Body Strength",
+      "duration": "45 mins",
+      "exercises": "Squat, Bench Press, Deadlift"
+    },
+    {
+      "id": 2,
+      "title": "Upper Body Hypertrophy",
+      "duration": "50 mins",
+      "exercises": "Pull-ups, Rows, Shoulder Press"
+    },
+    {
+      "title": "powerlifting",
+      "duration": "40mins",
+      "exercises": "benchpress, squats, dead lift",
+      "id": 3
+    },
+    {
+      "title": "caedio",
+      "duration": "20",
+      "exercises": "runing",
+      "id": 4
+    },
+    {
+      "title": "full body",
+      "duration": "30",
+      "exercises": "bicips",
+      "id": 5
+    },
+    {
+      "title": "Cardio",
+      "duration": "30 mins",
+      "exercises": "Threadmill running",
+      "id": 6
+    }
+  ],
+  "meals": [
+    {
+      "name": "High Protein Breakfast",
+      "calories": 100,
+      "items": "Oats, Eggs, Milk",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Post-Workout Meal",
+      "calories": 650,
+      "items": "Chicken, Rice, Vegetables"
+    },
+    {
+      "name": "fruits and dry fruits",
+      "calories": 250,
+      "items": "Banana and Badham ",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo User",
+      "email": "demo@fitness.com",
+      "password": "password123"
+    },
+    {
+      "name": "Rishvik",
+      "email": "rishvik18@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "name": "Murali Krishna Madapati",
+      "email": "madapatimuralikrishna18@gmail.com",
+      "password": "Murali@123",
+      "id": 3
+    },
+    {
+      "name": "Murali",
+      "email": "murali@gmail.com",
+      "password": "Murali@123",
+      "id": 4
+    },
+    {
+      "name": "Rishi",
+      "email": "rishvikkothamasu70@gmail.com",
+      "password": "Nagarishvik@1818",
+      "id": 5
+    }
+  ]
+}
